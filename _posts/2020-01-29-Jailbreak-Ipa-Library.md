@@ -3,7 +3,7 @@ layout: post
 title:  "Jailbreak IPA Library Download"
 author: sal
 categories: [ IphoneJailbreak ]
-image: assets/images/iOS.jpg
+image: assets/img/iOS.jpg
 tags: [featured]
 ---
 
