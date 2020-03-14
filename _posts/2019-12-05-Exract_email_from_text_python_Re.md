@@ -3,7 +3,7 @@ layout: post
 title:  "How to use regular expressions and extract all email addresses from a text file."
 author: sal
 categories: [ Python, Regularexpression ]
-image: assets/images/Re.jpg
+image: assets/img/Re.jpg
 tags: [summer]
 ---
 
