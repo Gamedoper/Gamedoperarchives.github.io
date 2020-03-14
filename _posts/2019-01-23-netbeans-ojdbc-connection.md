@@ -1,19 +1,11 @@
 ---
 layout: post
-title: NETBEANS OJDBC CONNECTION 
-date: 2019-01-23 13:35:00 -0400
-tags: [tech-blog,projects]
-image: ppp-landing.jpg
-
----
-
----
-layout: post
 title:  "NETBEANS OJDBC CONNECTION"
 author: Jai
 categories: [ technology, projects, Ojdbc connection]
 image: assets/img/ppp-landing.jpg
 tags: [featured]
+
 ---
 
 
