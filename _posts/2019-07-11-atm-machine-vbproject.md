@@ -1,11 +1,12 @@
-
 ---
+
 layout: post
 title:  "ATM MACHINE MINI PROJECT"
 author: Jai
-categories: [ Technology, Visualbasic6, project ]
+categories: [Technology, Visualbasic6, project ]
 image: assets/img/QWERTY.png
 tags: [featured]
+
 ---
 
 
