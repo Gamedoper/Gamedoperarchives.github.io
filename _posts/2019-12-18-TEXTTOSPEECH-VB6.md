@@ -3,7 +3,7 @@ layout: post
 title:  "Visual Basic Text to speech converter + synthesize audio to text"
 author: Jai
 categories: [ Visualbasic6, Project ]
-image: assets/images/he.jpg
+image: assets/img/he.jpg
 tags: [summer]
 ---
 
