@@ -4,9 +4,9 @@ description: 'Mundana is a free Jekyll theme for awesome people like you, Medium
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'Jaiprince17'
+email: 'ijayaprakashjoshi@gmail.com'
+mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -20,20 +20,20 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
+      name:           Gamedoper
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Sal, the author of Gamedoper, I hope my blog is useful to you!"
+      email:          
+      twitter:        https://twitter.com/gamedoper
 
     jane:
       name:           Jane
-      site:           https://www.wowthemes.net
+      site:           
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          
+      twitter:        https://twitter.com/gamedoper
  
 # Defaults
 defaults:
