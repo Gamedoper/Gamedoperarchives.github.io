@@ -4,7 +4,7 @@ description: 'Nothing much'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'Jaiprince17'
+disqus: 'gamedoper-com'
 email: 'ijayaprakashjoshi@gmail.com'
 mailchimp-list: 'https://gamedoper.us19.list-manage.com/subscribe/post?u=68e6cd3e457a34a1db66fc105&amp;id=4c39ba6348'
 
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: GameDoper
       avatar: assets/images/avatar1.jpg
       
   # all pages
