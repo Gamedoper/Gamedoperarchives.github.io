@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Netbeans Project Signup Page Part 2"
@@ -6,6 +5,7 @@ author: Jai
 categories: [ tutorial ]
 image: assets/img/Discount2.jpg
 tags: [summer]
+
 ---
 
 
