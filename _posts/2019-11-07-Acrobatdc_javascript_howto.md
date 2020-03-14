@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "How to use JavaScript on Acrobat dc"
@@ -6,6 +5,7 @@ author: Jai
 categories: [ tutorial ]
 image: assets/img/My_post.png
 tags: [featured]
+
 ---
 
 
