@@ -1,12 +1,12 @@
 # Site
 name: 'Gamedoper'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'Nothing much'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 disqus: 'Jaiprince17'
 email: 'ijayaprakashjoshi@gmail.com'
-mailchimp-list: ''
+mailchimp-list: 'd2b2a2654163c2d63ab18fdc78dea2e5-us19'
 
 include: ["_pages"]
 permalink: /:title/
