@@ -3,9 +3,10 @@
 layout: post
 title:  "Buy Vending machine visual basic (6.0) Project"
 author: Jai
-categories: [ Technology, Visualbasic6, project ]
+categories: [Visualbasic6, project ]
 image: 
 tags: [featured]
+
 ---
 
 
