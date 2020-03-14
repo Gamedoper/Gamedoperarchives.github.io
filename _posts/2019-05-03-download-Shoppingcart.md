@@ -1,11 +1,12 @@
-
 ---
+
 layout: post
 title:  "Shopping Cart JSP netbeans"
 author: Jai
 categories: [ Technology, Tutorial ]
 image: assets/img/ppp-landing.jpg
 tags: [summer]
+
 ---
 
 
