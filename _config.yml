@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 disqus: 'Jaiprince17'
 email: 'ijayaprakashjoshi@gmail.com'
-mailchimp-list: 'd2b2a2654163c2d63ab18fdc78dea2e5-us19'
+mailchimp-list: 'https://gamedoper.us19.list-manage.com/subscribe/post?u=68e6cd3e457a34a1db66fc105&amp;id=4c39ba6348'
 
 include: ["_pages"]
 permalink: /:title/
