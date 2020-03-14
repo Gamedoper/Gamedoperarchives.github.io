@@ -3,7 +3,7 @@ layout: post
 title:  "Visual Basic 6.0 Password Validation"
 author: Jai
 categories: [ Visualbasic6, Tutorial ]
-image: assets/images/pwd.png
+image: assets/img/pwd.png
 tags: [summer]
 ---
 
