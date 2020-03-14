@@ -5,8 +5,9 @@ layout: post
 title:  "Icon Pack Visual basic 6.0"
 author: Jai
 categories: [ Visualbasic6, Tutorial ]
-image: assets/images/iconpack.png
+image: assets/img/iconpack.png
 tags: [summer]
+
 ---
 
 
