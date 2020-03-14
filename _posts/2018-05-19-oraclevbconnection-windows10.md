@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "ADODC Connection in visual basic 6.0 with oracle database windows 10 | VISUAL BASIC 6.0"
@@ -6,10 +5,8 @@ author: Jai
 categories: [tech-blog,oracle,windows10,Errorfix]
 image: assets/img/adodc1.png
 tags: [featured]
+
 ---
-
-
-
 
 
 
