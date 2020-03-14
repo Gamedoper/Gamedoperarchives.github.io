@@ -1,11 +1,12 @@
-
 ---
+
 layout: post
 title:  "Simple web browser visual basic 6.0"
-author: jane
+author: Jai
 categories: [tech-blog,projects]
 image: assets/img/webbrwoser.jpg
 tags: [summer]
+
 ---
 
 
