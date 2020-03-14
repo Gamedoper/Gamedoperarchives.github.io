@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 title:  "Email validation Visual basic 6.0"
 author: Jai
 categories: [ Visualbasic6, Tutorial ]
 image: assets/img/ppp-landing.jpg
 tags: [summer]
+
 ---
 
 
