@@ -1,9 +1,9 @@
-
 ---
+
 layout: post
 title:  "Buy Vending machine visual basic (6.0) Project"
 author: Jai
-categories: [Visualbasic6, project ]
+categories: [Visualbasic6]
 image: 
 tags: [featured]
 
