@@ -22,7 +22,7 @@ authors:
     sal:
       name:           Gamedoper
       site:           https://gamedoper.com
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Gamedoper, I hope my blog is useful to you!"
       email:          
       twitter:        https://twitter.com/gamedoper
@@ -30,7 +30,7 @@ authors:
     jane:
       name:           Jane
       site:           
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          
       twitter:        https://twitter.com/gamedoper
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
