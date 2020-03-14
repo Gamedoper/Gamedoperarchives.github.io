@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "RIP GooglePlus"
@@ -6,6 +5,7 @@ author: GameDoper
 categories: [technology]
 image: assets/img/rip-google-plus1.jpg
 tags: [featured]
+
 ---
 
 
