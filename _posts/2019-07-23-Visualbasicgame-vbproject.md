@@ -4,8 +4,9 @@ layout: post
 title:  "Visual Basic 6.0 Game"
 author: Jai
 categories: [ Visualbasic6, project ]
-image: assets/images/game.png
+image: assets/img/game.png
 tags: [featured]
+
 ---
 
 
