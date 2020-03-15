@@ -9,10 +9,6 @@ tags: [featured]
 
 
 
-
-
-# project piano
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ul4bEyKSUhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Some information
