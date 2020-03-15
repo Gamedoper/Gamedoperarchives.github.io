@@ -1,5 +1,5 @@
 # Site
-name: ''
+name: 'GameDoper'
 description: 'A Guide to Resolve Gaming errors and Fixes, iOS Jailbreak , VisualBasic 6 & Web Projects '
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -22,7 +22,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    Gamedoper:
       name:           Gamedoper
       site:           https://gamedoper.com
       avatar:         assets/images/avatar1.jpg
