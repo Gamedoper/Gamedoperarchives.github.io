@@ -35,12 +35,6 @@
     {% include tracking-header.html %}
     
         
-    <!-- Google analytics -->
-    {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
-
-
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
