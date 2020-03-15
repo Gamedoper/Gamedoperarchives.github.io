@@ -11,6 +11,9 @@ mailchimp-list: 'https://gamedoper.us19.list-manage.com/subscribe/post?u=68e6cd3
 include: ["_pages"]
 permalink: /:title/
 
+## Tracker
+google_analytics_id: UA-128890200-1
+
 # Plugins
 plugins: 
   - jekyll-feed
