@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "How to use JavaScript on Acrobat dc"
 author: Jai
