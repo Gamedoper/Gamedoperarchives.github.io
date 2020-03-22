@@ -19,8 +19,8 @@ tags: [featured]
  3. [Download](https://caddyserver.com/v1/download) Caddy Server
  4. Add caddy folder to ENV path 
 
-Env = Environment Variables.
-After download extract the files in ur Drive.
+- Env = Environment Variables.
+- After download extract the files in ur Drive.
 
 ### Lets make sure its working 
 
