@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mafia 2 ( russia to english language ) easy steps"
-author: sal
+author: Gamedoper
 categories: [GameerrorFix]
 image: assets/img/1.jpg
 tags: [featured]
