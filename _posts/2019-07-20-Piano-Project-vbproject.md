@@ -4,7 +4,7 @@ title:  "Buy Piano visual basic (6.0) Project"
 author: Jai
 categories: [ Technology, Visualbasic6, project ]
 image: assets/img/amigo.png
-tags: [featured]
+tags: [sticky]
 ---
 
 
