@@ -24,11 +24,11 @@ After download extract the files in ur Drive.
 
 ### Lets make sure its working 
 
- 1. Open Cmd and  type the command Nssm [Test if its working fine]
+ 1. Open Cmd and  type the command **Nssm** [Test if its working fine]
  
 ![Caddy file](https://i.imgur.com/Oy4bPPE.png)
 
- 2. Open Cmd and  type the command Caddy [Test if its working fine]
+ 2. Open Cmd and  type the command **Caddy** [Test if its working fine]
 
 ![enter image description here](https://i.imgur.com/GxfHD9A.png)
 
@@ -44,7 +44,7 @@ After download extract the files in ur Drive.
 
 Explanation C:
 
- - Now Im passing Caddy arguments that is -conf [location of caddy conf file]
+ - Now Im passing Caddy arguments that is **-conf [location of caddy conf file]**
  - Example : -conf D:\Softwares\CaddyServer\anothercaddyfile.conf
  -  -conf C:\path\to\Caddyfile.conf
 - Example of my conf file 
@@ -68,7 +68,7 @@ Explanation C:
 
  Note : If the services are not running Click on Restart Or Resume in Services msc 
  or
- Open Cmd run this command -> Nssm start caddy(service name you have created) 
+ Open Cmd run this command ->**Nssm start caddy**(service name you have created) 
 
 
 ## Check your localhost://port files are served
