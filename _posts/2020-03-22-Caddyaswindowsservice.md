@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Setup the Caddy Web Server as a Windows Service"
-author: jai
+author: Jai
 categories: [Technology]
 image: assets/img/nssm.png
 tags: [featured]
