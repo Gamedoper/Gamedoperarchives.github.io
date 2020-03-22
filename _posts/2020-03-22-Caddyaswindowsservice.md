@@ -35,7 +35,7 @@ tags: [featured]
  
 ### Add Caddy Server in Nssm 
 
- - Open Cmd and type Nssm install caddy, Nssm application will be opened
+ - Open Cmd and type **Nssm install caddy**, Nssm application will be opened
  - Example
  ![nssm_install](https://i.imgur.com/FlXtq5Y.png)
  
@@ -61,7 +61,8 @@ Explanation C:
 
  - For more information about what to add in conf File check the Tutorial of Caddy [Documentation](https://caddyserver.com/v1/tutorial/caddyfile) 
 
- - Now click on install service .. Caddy service will be successfully.
+ - Now click on install service .. Caddy service will be successfully installed.
+ 
  - To check the caddy server CLick windows ->start - Services.msc
 
 ![services.msc](https://i.imgur.com/pUC2Wp8.png)
