@@ -46,8 +46,8 @@ Explanation C:
 
  - Now Im passing Caddy arguments that is **-conf [location of caddy conf file]**
  - Example : -conf D:\Softwares\CaddyServer\anothercaddyfile.conf
- -  -conf C:\path\to\Caddyfile.conf
-- Example of my conf file 
+ - Example : -conf C:\path\to\Caddyfile.conf
+ - Example of my conf file 
 	
 
         localhost:8888 {
