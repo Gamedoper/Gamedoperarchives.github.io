@@ -16,11 +16,11 @@ plug-in developers.
 
 This functionality includes the following features, among others:
 
-1) Processing forms within the document.
-2) Batch processing collections of PDF documents.
-3) Developing and maintaining online collaboration schemes.
-4) Communicating with local databases.
-5) Controlling multimedia events.
+- Processing forms within the document.
+- Batch processing collections of PDF documents.
+- Developing and maintaining online collaboration schemes.
+- Communicating with local databases.
+- Controlling multimedia events.
 
 In addition to being available in Acrobat and Adobe Reader, the objects, properties, and methods for the
 Acrobat extensions for JavaScript can also be accessed through Microsoft Visual Basic to automate the
