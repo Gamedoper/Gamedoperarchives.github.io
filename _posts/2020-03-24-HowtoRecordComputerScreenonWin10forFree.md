@@ -38,8 +38,8 @@ If you have **Windows 10** , you will be lucky enough to **capture everything th
 
 The captures will be saved in the predefined Videos folder. If you want destiny, you have to do the following:
 
--   Press **Win + G** key .
--   Go to the **gear** on the center panel.
+-   Press **Win + G** key to minimize or view the Xbox record screen.
+-   Go to the **gear** or **settings** on the center panel.
 -   Once inside, in the **general tab,** click on " **Edit preferences** ". It is underlined in blue.
 -   When the configuration window opens, go to " **Captures** ".
 
