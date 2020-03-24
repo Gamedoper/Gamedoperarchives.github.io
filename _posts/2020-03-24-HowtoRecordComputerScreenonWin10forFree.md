@@ -57,13 +57,13 @@ It is true that most use it to stream , but it has a screen recording function. 
 
 In my opinion, if we only want to record the screen , it is not necessary that we download a specific program for it because we can do it natively in Windows 10.
 
-
+[Download OBS ](https://obsproject.com/download)
 
 We hope it has helped you. If you have any questions, you can comment below so we can help you.
 
 
 
-  
+
 
 
   
