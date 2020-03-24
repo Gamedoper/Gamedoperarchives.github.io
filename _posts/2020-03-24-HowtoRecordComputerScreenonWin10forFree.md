@@ -47,7 +47,22 @@ The captures will be saved in the predefined Videos folder. If you want destiny,
 
 You can now change the **destination folder.**  
 
-**Hope this helps to record your screen ...** and Share the Videos
+### OBS Studio
+
+![enter image description here](https://repository-images.githubusercontent.com/13233158/2e2fae80-da26-11e9-8da2-e1e0b931a235)
+
+OBS
+
+It is true that most use it to stream , but it has a screen recording function. Not only that, we can choose which window we record inside our computer. We may want to record Google Chrome or do it in general, we can also choose it.
+
+In my opinion, if we only want to record the screen , it is not necessary that we download a specific program for it because we can do it natively in Windows 10.
+
+
+
+We hope it has helped you. If you have any questions, you can comment below so we can help you.
+
+
+
   
 
 
