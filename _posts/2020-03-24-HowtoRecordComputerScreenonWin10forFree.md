@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "How to Record Computer Screen on Windows 10 for Free"
 author: Jai
