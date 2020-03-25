@@ -48,7 +48,7 @@ If the Rockstar Launcher is causing problems, it may be worthwhile to delete the
 
 **Note**: This will remove all profile details from your local machine and require you to sign in to the Rockstar Games Launcher again. It will not delete your Social Club account or any saved games. Signing in to Social Club will recreate your local profile.
 
-  ### Run the game as administrator
+  ## Run the game as administrator
 
 Lastly, Rockstar suggests that you run the game as Administrator. This can be done from the Launcher itself. For this we must follow the following steps.
 
