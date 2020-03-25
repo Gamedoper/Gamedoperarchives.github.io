@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Red Dead Redemption 2 PC Error Fix"
 author: Jai
