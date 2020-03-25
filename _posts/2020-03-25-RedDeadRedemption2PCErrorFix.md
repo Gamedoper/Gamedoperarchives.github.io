@@ -26,7 +26,7 @@ Both linked drivers contain optimizations and bug fixes for Red Dead Redemption 
 
 One step to prevent the game from blocking is deactivating the antivirus that we have installed. This recommendation is classic for many games, since antivirus programs usually act in the background and cause crashes with relatively recent software.
 
-### Step 3 - Install the latest (May 2019) Windows Update**
+### Step 3 - Install the latest (May 2019) Windows Update
 
 1.  Select Start > Settings > Update & Security > Windows Update
 2.  Select Check for Updates
