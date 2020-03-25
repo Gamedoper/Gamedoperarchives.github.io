@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Red Dead Redemption 2 PC Error Fix"
-author: Jai
+author: Gamedoper
 categories: [GAMEERRORFIX]
 image: https://i.imgur.com/97wRGW9.jpg
 tags: [featured]
