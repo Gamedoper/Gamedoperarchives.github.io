@@ -22,7 +22,7 @@ Found a Solution on Doom Eternal Steam Page which seems to be working for many.
 ### The steps are the following:
 
 -   Open the game's command console by pressing the tilde key (the key that seems ~)
--   Write "logFile 2"
+-   Write "logFile 2" and HIT Enter key
 
 ![enter image description here](https://i.imgur.com/USfxHpi.jpg)
 
