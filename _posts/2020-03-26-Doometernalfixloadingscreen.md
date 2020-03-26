@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "DOOM Eternal Loading Screen Crash / Error Fix"
 author: Gamedoper
