@@ -3,7 +3,7 @@ layout: post
 title:  "DOOM Eternal Loading Screen Crash / Error Fix"
 author: Gamedoper
 categories: [GAMEERRORFIX]
-image: https://i.imgur.com/pkQmIdp.jpg
+image: https://i.imgur.com/9WNcuB0m.jpg
 tags: [featured]
 ---
 
