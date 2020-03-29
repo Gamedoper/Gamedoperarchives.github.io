@@ -5,7 +5,9 @@ author: Gamedoper
 categories: [GAMEERRORFIX]
 image: https://i.imgur.com/tDkSsK6.jpg
 tags: [featured]
----# Batman: Arkham Knight's framerate stutters with DX11 hooking (PC Modder)
+---
+
+# Batman: Arkham Knight's framerate stutters with DX11 hooking (PC Modder)
 
 ![enter image description here](https://i.imgur.com/nTUmCRb.png)
 
