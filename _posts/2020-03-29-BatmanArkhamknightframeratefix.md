@@ -3,7 +3,7 @@ layout: post
 title: "Batman: Arkham Knight's framerate stutters with DX11 hooking"
 author: Gamedoper
 categories: [GAMEERRORFIX]
-image: https://i.imgur.com/tDkSsK6.jpg
+image: assets/images/batman.jpg
 tags: [featured]
 ---
 
@@ -21,6 +21,6 @@ SheriefFarouk has seemingly fixed this issue with a simple DLL file.
 
 **Installation**
 
-The installation of Arkham Knight's PC fix is simple. Add the drop-in D3D11 DLL file into the same directory as your BatmanAK.exe file and you are ready to go. This file can be downloaded on [**Sherief's website**](https://sherief.fyi/post/arkham-quixote/) and the source code of the fix is available on [**GitHub**](https://code.sherief.fyi/sherief/arkham-fixer/src/branch/batman).
+The installation of Arkham Knight's PC fix is simple. **Add the drop-in D3D11 DLL** file into the same directory as your BatmanAK.exe file and you are ready to go. This file can be downloaded on [**Sherief's website**](https://sherief.fyi/post/arkham-quixote/) and the source code of the fix is available on [**GitHub**](https://code.sherief.fyi/sherief/arkham-fixer/src/branch/batman).
 
 [Download DLL](https://sherief.fyi/arkham-knight/dxgi.dll)

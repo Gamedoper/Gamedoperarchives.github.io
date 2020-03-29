@@ -1,20 +1,17 @@
 ---
 layout: post
-title:  "Red Dead Redemption 2 PC Error Fix"
+title: "Red Dead Redemption 2 PC Error Fix"
 author: Gamedoper
 categories: [GAMEERRORFIX]
-image: https://i.imgur.com/97wRGW9.jpg
+image: assets/images/97wRGW9.jpg
 tags: [featured]
 ---
 
+# Red Dead Redemption 2 PC is out, Gamers are facing crashes.
 
-
-#  Red Dead Redemption 2 PC is out, Gamers are facing crashes.
-  
 ![Red2fix](https://i.imgur.com/97wRGW9.jpg)
 
-**Rockstar Games** patched the game to mitigate some of these issues, although the issues persist for many players.  
-  
+**Rockstar Games** patched the game to mitigate some of these issues, although the issues persist for many players.
 
 ### Step 1: Update the GPU drivers
 
@@ -30,7 +27,7 @@ One step to prevent the game from blocking is deactivating the antivirus that we
 
 1.  Select Start > Settings > Update & Security > Windows Update
 2.  Select Check for Updates
-3.  For more details see the following article:  [https://support.microsoft.com/help/4028685/](https://support.microsoft.com/help/4028685/)
+3.  For more details see the following article: [https://support.microsoft.com/help/4028685/](https://support.microsoft.com/help/4028685/)
 
 ![fix_red2](https://i.imgur.com/LiqJOch.jpg)
 
@@ -38,33 +35,29 @@ One step to prevent the game from blocking is deactivating the antivirus that we
 
 If the Rockstar Launcher is causing problems, it may be worthwhile to delete the details of the Launcher profile and start again. Fortunately, this will not erase your saved games or Rockstar Social Club account. This action will force players to log into the Rockstar Launcher again and recreate their local account information.
 
--   Enter the Rockstar Launcher
--   Enter settings
--   Select "Account Information".
--   Select "Delete local profile".
--   Confirm the action
--   Log into the Rockstar Launcher
--   Run Red Dead Redemption 2
+- Enter the Rockstar Launcher
+- Enter settings
+- Select "Account Information".
+- Select "Delete local profile".
+- Confirm the action
+- Log into the Rockstar Launcher
+- Run Red Dead Redemption 2
 
 **Note**: This will remove all profile details from your local machine and require you to sign in to the Rockstar Games Launcher again. It will not delete your Social Club account or any saved games. Signing in to Social Club will recreate your local profile.
 
-  ## Run the game as administrator
+## Run the game as administrator
 
 Lastly, Rockstar suggests that you run the game as Administrator. This can be done from the Launcher itself. For this we must follow the following steps.
 
--   Open Rockstar Launcher
--   Select Options
--   Select Red Dead Redemption 2 in My Installed Games
--   Open in View installation folder
--   Right click on “RDR2”.
--   Select Properties
--   In the Compatibility tab select Run this program as administrator
--   Click OK
--   Back to the Launcher
--   Run the game
+- Open Rockstar Launcher
+- Select Options
+- Select Red Dead Redemption 2 in My Installed Games
+- Open in View installation folder
+- Right click on “RDR2”.
+- Select Properties
+- In the Compatibility tab select Run this program as administrator
+- Click OK
+- Back to the Launcher
+- Run the game
 
-  
- Rockstar Games can fix the issues and the website you can go through is here [https://support.rockstargames.com/articles/360037908634/RDR2-on-PC-General-Troubleshooting](https://support.rockstargames.com/articles/360037908634/RDR2-on-PC-General-Troubleshooting)
-
-  
-
+Rockstar Games can fix the issues and the website you can go through is here [https://support.rockstargames.com/articles/360037908634/RDR2-on-PC-General-Troubleshooting](https://support.rockstargames.com/articles/360037908634/RDR2-on-PC-General-Troubleshooting)

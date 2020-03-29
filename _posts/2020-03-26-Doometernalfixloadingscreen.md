@@ -3,12 +3,12 @@ layout: post
 title:  "DOOM Eternal Loading Screen Crash / Error Fix"
 author: Gamedoper
 categories: [GAMEERRORFIX]
-image: https://i.imgur.com/9WNcuB0.jpg
+image: assets/images/doom.jpg
 tags: [featured]
 ---
 
 # DOOM **Eternal**  FIX FOR LEVEL LOADING SCREEN CRASH
-  
+
 
 ![e](https://i.imgur.com/9WNcuB0.jpg)
 
@@ -16,7 +16,7 @@ tags: [featured]
 
 **The video game crashes on the loading screen** , preventing it from playing normally. There is no patch to solve this problem, which can be a headache for many players.
 
-Found a Solution on Doom Eternal Steam Page which seems to be working for many. 
+Found a Solution on Doom Eternal Steam Page which seems to be working for many.
 
 
 ### The steps are the following:
@@ -35,12 +35,12 @@ Found a Solution on Doom Eternal Steam Page which seems to be working for many.
 
 We can't guarantee this will work for everyone, but it seems to work from the comments on the [Steam](https://steamcommunity.com/app/782330/discussions/0/1867245566135460678/) .
 
-  
-
-  
-  
 
 
 
-  
+
+
+
+
+
 
