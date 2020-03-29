@@ -1,12 +1,12 @@
 # Site
-name: "GameDoper"
-description: "A Guide to Resolve Gaming errors and Fixes, iOS Jailbreak , VisualBasic 6 & Web Projects "
-logo: "assets/images/logo.png"
-favicon: "assets/images/favicon.ico"
-baseurl: "/"
-disqus: "gamedoper-com"
-email: "ijayaprakashjoshi@gmail.com"
-mailchimp-list: "https://gamedoper.us19.list-manage.com/subscribe/post?u=68e6cd3e457a34a1db66fc105&amp;id=4c39ba6348"
+name: 'GameDoper'
+description: 'A Guide to Resolve Gaming errors and Fixes, iOS Jailbreak , VisualBasic 6 & Web Projects '
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+disqus: 'gamedoper-com'
+email: 'ijayaprakashjoshi@gmail.com'
+mailchimp-list: 'https://gamedoper.us19.list-manage.com/subscribe/post?u=68e6cd3e457a34a1db66fc105&amp;id=4c39ba6348'
 
 include: ["_pages"]
 permalink: /:title/
@@ -15,31 +15,32 @@ permalink: /:title/
 google_analytics: UA-128890200-1
 
 # Plugins
-plugins:
+plugins: 
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-
+  
 authors:
-  Gamedoper:
-    name: Gamedoper
-    site: https://gamedoper.com
-    avatar: assets/images/avatar1.jpg
-    bio: "Hi, I am GameDoper"
-    email:
-    twitter: https://twitter.com/gamedoper
+    Gamedoper:
+      name:           Gamedoper
+      site:           https://gamedoper.com
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hi, I am GameDoper"
+      email:          
+      twitter:        https://twitter.com/gamedoper
 
-  Jai:
-    name: Jai
-    site:
-    avatar: assets/images/avatar2.jpg
-    bio: "Blogger, love to explore new ideas and to code"
-    email:
-    twitter: https://twitter.com/jaiprince17
-
+    Jai:
+      name:           Jai
+      site:           
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Blogger, love to explore new ideas and to code"
+      email:          
+      twitter:        https://twitter.com/jaiprince17
+ 
 # Defaults
 defaults:
+
   # all posts
   - scope:
       path: "_posts"
@@ -47,13 +48,13 @@ defaults:
       layout: post
       author: GameDoper
       avatar: assets/images/avatar1.jpg
-
+      
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-
+      
 # Syntax
 markdown: kramdown
 highlighter: rouge
@@ -61,13 +62,7 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
+
+
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude:
-  [
-    README.markdown,
-    package.json,
-    grunt.js,
-    Gruntfile.js,
-    Gruntfile.coffee,
-    node_modules,
-  ]
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
