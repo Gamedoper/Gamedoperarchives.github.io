@@ -104,8 +104,9 @@ DOWNLOAD
 100 % EASY & WORKING  THANK YOU 
 
 
+---
 
-## INSTRUCTIONS FOR DLC LANGUAGE CHANGE
+## NOTES FOR DLC LANGUAGE CHANGE
 
 #### 1. Download files from the below link.
 
