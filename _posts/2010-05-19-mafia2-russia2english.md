@@ -112,6 +112,9 @@ INSTRUCTIONS :</b></div>
 
 #### 3.  inside the dlcs folder, if folder contains sds_ru folder then delete the folder and Paste the new (sds_en) one.
 
+Example : if Folder has cnt_betrayal_of_jimmy/sds_ru - then delete sds_ru 
+paste(y) the new sds_en from the Extracted folder
+
 Download file info :
 dlcEn.rar -->
  - cnt_betrayal_of_jimmy - sds_en
