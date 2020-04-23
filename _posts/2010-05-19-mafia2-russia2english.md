@@ -95,14 +95,6 @@ INSTRUCTIONS :</b></div>
 
 </div>
 
-INSTRUCTIONS FOR DLC LANGUAGE CHANGE :
-1. Download files from the below link,
-DOWNLOAD
-2. Put files from PART 2 to PART 1, delete "read the instruction"
-3. Copy all files from PART 1 
-4. Go to sdn_ru dellete all files and paste (y) it will works ;)﻿
-100 % EASY & WORKING  THANK YOU 
-
 
 ---
 
