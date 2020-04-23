@@ -105,16 +105,16 @@ DOWNLOAD
 
 
 
-# INSTRUCTIONS FOR DLC LANGUAGE CHANGE
+## INSTRUCTIONS FOR DLC LANGUAGE CHANGE
 
 #### 1. Download files from the below link.
 
 [Download](http://www.mediafire.com/file/ae0of9zks1v488u/dlcEn.rar/file)
 
 **scenario 1**
+
 #### 2. Extract files into Game folder i.e Gamelocation/dlcs/ will work Run the Game.
 
-#### 2. Extract files into Game folder i.e Gamelocation/dlcs/ will work try running the game 
 **scenario 2**
 
 #### 3.  inside the dlcs folder, if folder contains sds_ru folder then delete the folder and Paste the new (sds_en) one.
