@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Best emulators for PC Free Download"
 author: Gamedoper
@@ -29,7 +29,7 @@ MAME arcade emulator - [click here](https://www.mamedev.org/)
 
 Lovers of the Nintendo portable console can also enjoy their favorite games with all the advantages of doing it on a computer. Now you can play the great **Nintendo DS** exclusives on a PC thanks to **DESMUME** . It is an emulator of the Japanese console for Windows computers.
 
-The emulator is completely free and can be obtained from its official website. It is installed like any other software and has practically all the functions of the original console. The main drawback is that it **does not have WiFi support** .
+The emulator is completely free and can be obtained from its official website. It is installed like any other software and has practically all the functions of the original console.
 
 Download Nintendo DS emulator, DESMUME - [click here](https://desmume.org/)
 
