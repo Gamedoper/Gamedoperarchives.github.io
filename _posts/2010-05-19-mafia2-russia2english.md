@@ -9,7 +9,6 @@ tags: [featured]
 
 ## NOTES FOR MAIN GAME LANGUAGE CHANGE
 
-## NOTES FOR MAIN GAME LANGUAGE CHANGE
 
 **Mafia 2 ( Russia to English language ) easy step**
 
