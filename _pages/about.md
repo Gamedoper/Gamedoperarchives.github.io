@@ -15,5 +15,12 @@ Follow us on Social media&nbsp;
 
 <a href="https://twitter.com/gamedoper?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @gamedoper</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a href="https://www.pinterest.com/gamedoper/"
+   data-pin-do="buttonFollow">
+   Follow @gamedoper
+</a>
+
+
+
 
 &nbsp;
