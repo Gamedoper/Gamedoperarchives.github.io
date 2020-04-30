@@ -8,7 +8,6 @@ categories:
 image: assets/images/ghostgtav.jpg
 tags:
   - featured
-  - sticky
   - summer
 ---
 
