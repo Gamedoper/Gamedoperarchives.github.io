@@ -6,7 +6,7 @@ image:
 comments: true
 ---
 
-The Gamedoper is all about solving game errors and provide a fix. The era of gaming is has pretty much Long loaded errors let it be Pc, Xbox and PS4. Gamers face lot of error during installation or after running the game. we Strive to solve the error.&nbsp;
+The Gamedoper is all about solving game errors and provide a fix. The era of gaming has pretty much Long loaded errors let it be Pc, Xbox and PS4. Gamers face lot of error during installation or after running the game. we Strive to solve the error.&nbsp;
 
 Sometimes the Site owner might update technology and programming related stuff or IOS jail breaking so stay tuned.............
 
