@@ -20,6 +20,7 @@ Follow us on Social media&nbsp;
    Follow @gamedoper
 </a>
 
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=59&layout=box_count&action=like&size=small&share=true&height=65&appId=342075423368360" width="59" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 
 
