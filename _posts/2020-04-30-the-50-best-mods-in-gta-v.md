@@ -5,7 +5,7 @@ author: Gamedoper
 categories:
   - Gaming
   - Gta V
-image: /assets/images/cd417762c0542cf0decc061baa9f7d01.jpg
+image: /assets/images/ghostgtav.jpg
 tags:
   - featured
   - sticky
