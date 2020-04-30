@@ -9,6 +9,7 @@ image: assets/images/ghostgtav.jpg
 tags:
   - featured
   - sticky
+  - summer
 ---
 
 ### Make Los Santos hyperrealistic (&nbsp;[download](https://www.gta5-mods.com/misc/naturalvision-photorealistic-gtav){: target="_blank"}&nbsp;)
