@@ -13,17 +13,6 @@ Sometimes the Site owner might update technology and programming related stuff o
 
 Follow us on Social media&nbsp;
 
-<!--<a href="https://twitter.com/gamedoper?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @gamedoper</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
-
-<!--<a href="https://www.pinterest.com/gamedoper/"-->
-<!--   data-pin-do="buttonFollow" class="pinterest-follow-button">-->
-<!--   Follow @gamedoper-->
-<!--</a>-->
-
-<!--<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=59&layout=box_count&action=like&size=small&share=true&height=65&appId=342075423368360" width="59" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>-->
-
-
-
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style a2a_follow">
     <a class="a2a_button_twitter" data-a2a-follow="gamedoper"></a>
     <a class="a2a_button_facebook" data-a2a-follow="gamedoper"></a>
