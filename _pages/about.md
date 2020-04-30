@@ -13,10 +13,7 @@ Sometimes the Site owner might update technology and programming related stuff o
 
 Follow us on Social media&nbsp;
 
-<a href="https://facebook.com/gamedoper" class="fa fa-facebook"></a>
-<a href="https://twitter.com/gamedoper" class="fa fa-twitter"></a>
-<a href="youtube.com/ijayaprakash" class="fa fa-youtube"></a>
-<a href="https://pinterest.com/gamedoper" class="fa fa-pinterest"></a>
-<a href="https://www.reddit.com/user/GameDoper/" class="fa fa-reddit"></a>
+<a href="https://twitter.com/gamedoper?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @gamedoper</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 &nbsp;
