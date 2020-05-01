@@ -1,5 +1,5 @@
 /*!
- * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
+ * Jekyll Theme (https://www.gamedoper.shop)
  */
 
 body {
@@ -228,7 +228,7 @@ a.text-dark:hover {
 	}
 }
 .navbar-light .navbar-brand {
-	color:rgba(0,0,0,0.9);
+	color: #f8f9fa;
 }
 .navbar-light .navbar-brand:hover,.navbar-light .navbar-brand:focus {
 	color:rgba(0,0,0,0.9);
