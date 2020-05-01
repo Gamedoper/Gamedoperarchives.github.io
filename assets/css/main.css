@@ -5144,8 +5144,11 @@ button.bg-lightblue:hover,
 button.bg-lightblue:focus {
   background-color: #c6e2d0 !important; }
 
-.bg-white {
+.bg-navbar {
   background-color: #ffde03 !important; }
+
+.bg-white {
+  background-color: #fff !important; }
 
 .bg-transparent {
   background-color: transparent !important; }
