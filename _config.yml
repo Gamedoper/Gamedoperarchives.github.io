@@ -9,7 +9,7 @@ email: 'ijayaprakashjoshi@gmail.com'
 mailchimp-list: 'https://gamedoper.us19.list-manage.com/subscribe/post?u=68e6cd3e457a34a1db66fc105&amp;id=4c39ba6348'
 
 include: ["_pages"]
-permalink: /:_pages/:title/
+permalink: /:title/
 
 # Google Analytics
 google_analytics: UA-128890200-1
