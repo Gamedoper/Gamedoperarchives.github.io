@@ -7262,6 +7262,10 @@ a.text-lightblue:hover, a.text-lightblue:focus {
 .text-body {
   color: #212529 !important; }
 
+.text-navbar{
+ color: #f8f9fa !important;
+}
+
 .text-muted {
   color: #6c757d !important; }
 
