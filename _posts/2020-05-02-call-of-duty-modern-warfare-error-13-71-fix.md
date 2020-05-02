@@ -9,6 +9,7 @@ categories:
 image: assets/images/960x0.png
 tags:
   - featured
+  - sticky
 ---
 
 # How to fix Call of Duty Modern Warfare Error 13-71&nbsp;
