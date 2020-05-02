@@ -139,9 +139,11 @@ description: "Game doper is Site to Resolve Gaming errors and Fixes, Visual Basi
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}  
   <div class="card">
+      <a href="{{site.baseurl}}{{post.url}}">
     <img class="card-img-top" src="{{site.baseurl}}/{{ post.image }}" alt="Card image cap">
+      </a>
     <div class="card-body">
-    <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark"><h5 class="card-title">{{post.title}}</h5></a>
+    <a href="{{site.baseurl}}{{post.url}}" class="text-dark"><h5 class="card-title">{{post.title}}</h5></a>
     </div>    
   </div>
 {% endif %}
