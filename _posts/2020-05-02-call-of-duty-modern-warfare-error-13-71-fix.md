@@ -24,7 +24,7 @@ On PC you must do a different thing and it is to reinstall the game in the Battl
 
 While in safe mode, you must take advantage to access your online profile and leave any regiment, in addition to blocking all the mentioned future regiment invitations before you restart the game again.
 
-\!\[codmoderwarfare\](https://i.imgur.com/2oneumc.jpg)
+![](/uploads/call-duty-modern-warfare-season-1-end.jpg){: width="2500" height="1406"}
 
 ### Fix memory error 13-71 on PS4 and Xbox One
 
