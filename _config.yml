@@ -17,7 +17,7 @@ google_analytics: UA-128890200-1
 # Plugins
 plugins: 
   - jekyll-feed
-  - jekyll-sitemap
+ 
   - jekyll-paginate
   - jekyll-seo-tag
   
