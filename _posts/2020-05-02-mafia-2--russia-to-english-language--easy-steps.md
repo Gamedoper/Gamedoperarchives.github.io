@@ -8,7 +8,7 @@ categories:
   - Gaming
 image: assets/img/1.jpg
 tags:
-  - sticky
+  - summer
 ---
 
 ## NOTES FOR MAIN GAME LANGUAGE CHANGE
