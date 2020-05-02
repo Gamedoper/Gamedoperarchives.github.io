@@ -13,8 +13,6 @@ tags:
 
 # how to fix Call of Duty Modern Warfare Error 13-71&nbsp;
 
-&nbsp;
-
 * PC
 * Xbox One, PS4
 
@@ -40,9 +38,3 @@ While in safe mode, you must take advantage to access your online profile and le
 Official patch is being worked on the above steps is a work around for the game error 13-71
 
 Hope it helped thank you&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
