@@ -11,7 +11,7 @@ tags:
   - featured
 ---
 
-# how to fix Call of Duty Modern Warfare Error 13-71&nbsp;
+# How to fix Call of Duty Modern Warfare Error 13-71&nbsp;
 
 * PC
 * Xbox One, PS4
