@@ -139,7 +139,7 @@ description: "Game doper is Site to Resolve Gaming errors and Fixes, Visual Basi
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}  
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
+    <img class="card-img-top" src="({{site.baseurl}}/{{ post.image }})" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">{{post.title}}</h5>
       <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
