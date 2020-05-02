@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Play AirCraft Html Game"
-author: GameDoper
-categories: [htmlgame,Gaming]
+title: Play AirCraft Html Game
+author: Gamedoper
+categories:
+  - htmlgame
+  - Gaming
 image: assets/img/Untitled.png
-tags: sticky
-
+tags:
+  - sticky
 ---
-
 
 <div style="text-align: center;">
 </div>
