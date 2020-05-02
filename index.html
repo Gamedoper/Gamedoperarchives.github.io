@@ -134,9 +134,10 @@ description: "Game doper is Site to Resolve Gaming errors and Fixes, Visual Basi
     
  <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 
+
+<div class="card-deck">
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}  
-<div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
@@ -147,6 +148,7 @@ description: "Game doper is Site to Resolve Gaming errors and Fixes, Visual Basi
   </div>
 {% endif %}
 {% endfor %}
+    </div>
 
     
 {% endif %} <!--endif page url is / -->
