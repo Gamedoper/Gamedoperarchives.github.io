@@ -133,23 +133,7 @@ description: "Game doper is Site to Resolve Gaming errors and Fixes, Visual Basi
 </div>
     
  <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-{% for post in site.posts %} 
-{% if post.tags contains "sticky" %}    
-<div class="card-deck">
-  <div class="card">
-    <img class="card-img-top" src="url({{site.baseurl}}/{{ post.image }})" alt="Card image cap">
-    <div class="card-body">
-   <h1 class="mb-3">{{post.title}}</h1>
-      <p class="card-text"> 
-          {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }} </p>
-       <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
-    </div>
-  </div> 
-    {% endif %}
-    {% endfor %}
-    
 
-{% endif %} <!--endif page url is / -->
     
 
 
