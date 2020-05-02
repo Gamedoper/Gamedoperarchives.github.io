@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Batman: Arkham Knight's framerate stutters with DX11 hooking"
+title: 'Batman: Arkham Knight''s framerate stutters with DX11 hooking'
 author: Gamedoper
-categories: [GAMEERRORFIX]
+categories:
+  - GAMEERRORFIX
 image: assets/images/batman.jpg
-tags: [featured]
+tags:
+  - sticky
 ---
 
 # Batman: Arkham Knight's framerate stutters with DX11 hooking (PC Modder)
