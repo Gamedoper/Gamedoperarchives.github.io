@@ -7,7 +7,7 @@ categories:
   - Gaming
 image: assets/img/Untitled.png
 tags:
-  - sticky
+  - summer
 ---
 
 <div style="text-align: center;">
