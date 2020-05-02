@@ -15,7 +15,7 @@ tags:
 
 This mod will allow us to have the city of Los Santos very realistic, as if it were even a new next-generation game.
 
-![](/uploads/maxresdefault.jpg){: width="1280" height="720"}
+![GtaV hyper realistic](https://i.imgur.com/coiVpOX.jpg)
 
 ### Become Iron Man (&nbsp;[download](http://gtaxscripting.blogspot.co.uk/2015/08/ironmanv-installation-guide-armors-and.html){: target="_blank"}&nbsp;)
 
