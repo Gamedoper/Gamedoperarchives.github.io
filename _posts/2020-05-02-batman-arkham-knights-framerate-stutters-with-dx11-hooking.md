@@ -9,7 +9,7 @@ tags:
   - sticky
 ---
 
-# Batman: Arkham Knight's framerate stutters Fix.
+# Batman: Arkham Knight's framerate stutters Fix
 
 ![enter image description here](https://i.imgur.com/nTUmCRb.png)
 
