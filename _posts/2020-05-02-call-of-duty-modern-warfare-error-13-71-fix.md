@@ -16,7 +16,7 @@ tags:
 * PC
 * Xbox One, PS4
 
-This is memory error 13-71 that is playing both on PC and also on PS4 and Xbox One for&nbsp;[Call of Duty Modern Warfare](https://www.hobbyconsolas.com/videojuegos/call-duty-modern-warfare-4)&nbsp; and Warzone, and while there is still no official patch for their solution, they are gone. trying different methods that are working so that the players can continue enjoying the game.
+This is memory error 13-71 that is playing both on PC and also on PS4 and Xbox One for Call of Duty Modern Warfare&nbsp; and Warzone, and while there is still no official patch for their solution, they are gone. trying different methods that are working so that the players can continue enjoying the game.
 
 ### Fix memory error 13-71 on PC
 
