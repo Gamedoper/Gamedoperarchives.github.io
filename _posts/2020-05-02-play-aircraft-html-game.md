@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Play AirCraft Html Game
 author: Gamedoper
 categories:
@@ -10,10 +10,6 @@ tags:
   - summer
 ---
 
-<div style="text-align: center;">
-</div>
- <a href="/gamefly/index.html" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">PLAY</a>
-           
-   
+<div style="text-align: center;">&nbsp;</div>
 
-
+[PLAY](/gamefly/index.html){: .btn.btn-primary.btn-lg.active}
