@@ -5,7 +5,7 @@ author: Jai
 categories:
   - technology
   - android studio
-image: /assets/images/powershell_hyperv_twitter.png
+image: assets/images/powershell_hyperv_twitter.png
 tags:
   - summer
 ---
