@@ -27,16 +27,14 @@ Virtualization is available to everyone with Windows, and we are going to see ho
 
 ## Enable Hyper-V with CMD and DISM
 
-&nbsp;
-
 To enable the Hyper-V role using DISM:
 
 1. Open up a PowerShell or CMD session as Administrator.
 2. Type the following command:
 
-PowerShell : One of the quickest ways to start PowerShell, in any modern version of Windows, is to use the Run window. A fast way to launch this window is to press the&nbsp;*Win + R*&nbsp;keys on your keyboard. Then, type&nbsp;*powershell*&nbsp;and press&nbsp;*Enter*&nbsp;or click&nbsp;*OK*.
-
 > DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V
+
+PowerShell : One of the quickest ways to start PowerShell, in any modern version of Windows, is to use the Run window. A fast way to launch this window is to press the&nbsp;*Win + R*&nbsp;keys on your keyboard. Then, type&nbsp;*powershell*&nbsp;and press&nbsp;*Enter*&nbsp;or click&nbsp;*OK*.
 
 ![](/uploads/dism-upd.png){: width="777" height="348"}
 
